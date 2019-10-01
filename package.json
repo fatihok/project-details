@@ -1,6 +1,6 @@
 {
   "name": "project-details",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Generates project details of a screen",
   "scripts": {
     "start": "zem start",
