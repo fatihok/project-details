@@ -3,9 +3,9 @@ Generates project details of a screen. This extension might be beneficial for yo
 
 ## Options
 
-#### Display as JSON or Text
+### Display as JSON or Text
 
-Sample JSON output
+Sample JSON output:
 ```
 {
   "name": "I Scream, You Scream",
@@ -21,7 +21,7 @@ Type: ios
 Density: 1x
 ```
 
-#### Project properties
+### Project properties
 The extension displays **Project Name**, **Type** and **Density** by default. You can toggle the **Length Unit** and **Linked Styleguide** options as needed. All of these project details are optional.
 
 ## Development
