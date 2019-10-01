@@ -1,0 +1,72 @@
+{
+  "name": "project-details",
+  "version": "0.1.0",
+  "description": "Generates project details of a screen",
+  "scripts": {
+    "start": "zem start",
+    "build": "zem build",
+    "clean": "zem clean",
+    "exec": "zem exec",
+    "publish": "zem publish"
+  },
+  "zeplin": {
+    "displayName": "Project Details",
+    "platforms": [
+      "web",
+      "ios",
+      "android",
+      "osx"
+    ],
+    "options": [
+      {
+        "name": "Display as",
+        "type": "picker",
+        "id": "displayFormat",
+        "options": [
+          {
+            "name": "JSON",
+            "value": "json"
+          },
+          {
+            "name": "Text",
+            "value": "text"
+          }
+        ],
+        "default": "json"
+      },
+      {
+        "name": "Name",
+        "type": "switch",
+        "id": "displayName",
+        "default": true
+      },
+      {
+        "name": "Type",
+        "type": "switch",
+        "id": "displayType",
+        "default": true
+      },
+      {
+        "name": "Density",
+        "type": "switch",
+        "id": "displayDensity",
+        "default": true
+      },
+      {
+        "name": "Length Unit",
+        "type": "switch",
+        "id": "displayLengthUnit",
+        "default": false
+      },
+      {
+        "name": "Linked Styleguide",
+        "type": "switch",
+        "id": "displayLinkedStyleguide",
+        "default": false
+      }
+    ]
+  },
+  "dependencies": {
+    "zem": "^0.4.4"
+  }
+}
