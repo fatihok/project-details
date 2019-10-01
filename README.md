@@ -22,7 +22,7 @@ Density: 1x
 ```
 
 ### Project properties
-The extension displays `Project Name`, `Type` and `Density` by default. You can toggle the `Length Unit` and `Linked Styleguide` options as needed. All of these project details are optional.
+The extension displays `Project Name`, `Type` and `Density` by default. You can toggle the `Length Unit` and `Linked Styleguide` options as needed. All of these project properties are optional.
 
 ## Development
 React Native extension is developed using [zem](https://github.com/zeplin/zem), Zeplin Extension Manager. zem is a command line tool that lets you quickly create and test extensions.
