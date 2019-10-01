@@ -1,6 +1,6 @@
 {
   "name": "project-details",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generates project details of a screen",
   "repository": "https://github.com/fatihok/project-details",
   "scripts": {
