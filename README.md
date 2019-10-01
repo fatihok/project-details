@@ -1,5 +1,5 @@
 # Project Details Extension
-Generates project details of a screen. This extension might be beneficial for you to find out the project details easily when a teammate shared a screen link with you — especially if you're working with a lot projects. 🕵️‍♀️
+Generates project details of a screen. This extension might be beneficial for you to find out the project details easily when a teammate shared a screen link with you—especially if you're working with a lot of projects. 🕵️‍♀️
 
 ## Options
 
