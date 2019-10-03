@@ -1,7 +1,7 @@
 {
   "name": "project-details",
   "version": "1.0.2",
-  "description": "Generates project details like project name, type and density when you open a screen.",
+  "description": "Generates the project details such as name, type and density when you open a screen.",
   "repository": "https://github.com/fatihok/project-details",
   "scripts": {
     "start": "zem start",
